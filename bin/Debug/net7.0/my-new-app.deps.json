@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "my-new-app/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.SpaProxy": "7.0.14"
+        },
+        "runtime": {
+          "my-new-app.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.SpaProxy/7.0.14": {
+        "runtime": {
+          "lib/net7.0/Microsoft.AspNetCore.SpaProxy.dll": {
+            "assemblyVersion": "7.0.14.0",
+            "fileVersion": "7.0.1423.52316"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "my-new-app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.SpaProxy/7.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sC27aKp+63ch9Gp/z5o+xqoPNsf7uC3/RIzEwncSqLuScm3pabYeYwIzBfCq4AwLjmAKhnY2/cSXwG8fiorNuA==",
+      "path": "microsoft.aspnetcore.spaproxy/7.0.14",
+      "hashPath": "microsoft.aspnetcore.spaproxy.7.0.14.nupkg.sha512"
+    }
+  }
+}
